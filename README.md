@@ -1,2 +1,4 @@
 # Random Quote Generator
- JavaScript project to generate random quotes
+First JavaScript project where I used my basic knowledge of loops, arrays, and objects literals to create a random quote generator.
+
+
